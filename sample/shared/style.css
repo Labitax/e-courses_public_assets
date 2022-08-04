@@ -1,0 +1,123 @@
+﻿body{
+	margin:0;
+}
+
+/*--------------------------------
+/*			FONT SIZES
+/*-------------------------------*/
+
+br{
+	margin-bottom: 2vw;
+}
+
+h1{
+	font-size: 2.4vw;
+}
+
+h2{
+	font-size: 2.1vw;
+	margin: 2.9vw 0;
+}
+
+h3{
+	font-size: 2vw;
+	margin: 2.6vw 0;
+}
+
+h4{
+	font-size: 1.9vw;
+	margin: 2.3vw 0;
+}
+
+h5{
+	font-size: 1.8vw;
+	margin: 2vw 0;
+}
+
+h6{
+	font-size: 1.7vw;
+	margin: 1.7vw 0;
+}
+
+.ebook p {
+	font-size: 1.7vw;
+	text-align: justify;
+  text-justify: inter-word;
+}
+
+.ebook ul, .ebook ol{
+	font-size: 1.7vw;
+	text-align: justify;
+	justify-content: inter-word;
+	margin: 0;
+}
+
+/*--------------------------------
+/*			GENERAL PROPERTIES
+/*-------------------------------*/
+
+.main div{
+	width: 70vw;
+	margin: 3vw auto;
+	text-align: center;
+}
+
+.main li{
+	margin-left: 0;
+}
+
+h1, h2, h3, h4, h5, h6{
+	text-align: left;
+}
+
+.example .img{
+	margin-left: -3.5vw;
+}
+
+.ebook div{
+	margin: 0;
+}
+
+.ebook img{
+	text-align: center;
+}
+
+.ebook .special{
+  margin: 3vw 0;
+	padding: 1vw 2.8vw;
+	border-top: 2px solid DarkslateGrey;
+	border-bottom: 2px solid DarkslateGrey;
+}
+
+.ebook .example{
+	width: 90%;
+	border-top: 2px solid DarkslateGrey;
+	border-bottom: 2px solid DarkslateGrey;
+	padding: 1.7vw 2.8vw;
+	font-size: 1.7vw;
+	text-align: justify;
+  text-justify: inter-word;
+}
+
+.videos{
+	display: flex;
+	justify-content: space-between;
+}
+
+.videos span{
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 1.7vw;
+	color: gray;
+}
+
+.audiobook iframe{
+	height: 8vw;
+	align-items: center;
+}
+
+.videos iframe{
+	height: 27vw;
+	width: 33vw;
+	margin: -3vw 0;
+}
