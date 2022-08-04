@@ -98,13 +98,14 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .ebook .example{
+	margin-top: 3vw;
 	width: 90%;
 	border-top: 2px solid DarkslateGrey;
 	border-bottom: 2px solid DarkslateGrey;
 	padding: 1.7vw 2.8vw;
 	font-size: 1.7vw;
 	text-align: justify;
-  text-justify: inter-word;
+  	text-justify: inter-word;
 }
 
 .videos{
