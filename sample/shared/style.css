@@ -109,14 +109,16 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .ebook .example2{
-	width: 90%;
+	width: 95%;
 	font-size: 1.7vw;
 	text-align: justify;
   	text-justify: inter-word;
+	margin: 0 0 0 auto;
 }
 
 .example2 h1{
 	font-size: 1.7vw;
+	padding-bottom: 1vw;
 	border-bottom: 2px solid DarkslateGrey;
 }
 
