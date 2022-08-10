@@ -108,6 +108,18 @@ h1, h2, h3, h4, h5, h6{
   	text-justify: inter-word;
 }
 
+.ebook .example2{
+	width: 90%;
+	font-size: 1.7vw;
+	text-align: justify;
+  	text-justify: inter-word;
+}
+
+.example2 h1{
+	font-size: 1.7vw;
+	border-bottom: 2px solid DarkslateGrey;
+}
+
 .videos{
 	display: flex;
 	justify-content: space-between;
